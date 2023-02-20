@@ -8,7 +8,7 @@ Basic_Financial_Econometrics.pdf: lecture notes for (advanced) Master programs o
 
 comments.Econometrics_Methods_and_Applications.by.Alois.Geyer.pdf: comments on the coursera course "https://www.coursera.org/learn/erasmus-econometrics" prepared by Erasmus School of Economics
 
-comments on chapters 13 (pooled OLS) and 14 (fixed and random effects).pdf: 
+comments on chapters 13 (pooled OLS) and 14 (fixed and random effects).pdf (referring to  Wooldridge: Introductory Econometrics, 2nd edition)
 
 Data_Analysis_and_Decision_Making.pdf: lecture notes for MBA programs
     Data_Analysis_and_Decision_Making.xlsx: associated examples using Excel
