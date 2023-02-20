@@ -18,4 +18,3 @@ Data_Analysis_and_Decision_Making.pdf: lecture notes for MBA programs
 panel.xlsx: simple examples illustrating various panel regression options using Excel
 
 some examples, special cases, tests etc.zip: a collection of examples, special cases, and tests
-
